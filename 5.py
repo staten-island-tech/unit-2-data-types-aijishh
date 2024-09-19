@@ -1,3 +1,3 @@
 "test"
-test = ["t","e","s","t"]
-print(test[2])
+test = ["t", "e", "s", "t"]
+print (test[2])
