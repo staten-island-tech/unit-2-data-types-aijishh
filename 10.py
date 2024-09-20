@@ -1,6 +1,6 @@
-input("whats yo name?")
-name = input("whats yo name?")
-if name == "Aijish": 
+input("whats your name?")
+name = input("whats your name?")
+if name == "aijish": 
     print("correct")
 else:
     print("wrong")

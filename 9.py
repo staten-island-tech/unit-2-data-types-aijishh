@@ -1,8 +1,5 @@
 input("write a sentence")
 x = input("write a sentence")
 y = x.split()
-print(y)
-print(y[0]) 
-print(y[1]) 
-print(y[2]) 
-print(y[3])
+for i in y:
+    print(i)
