@@ -1,2 +1,2 @@
-x = "test"
-print(f"hello {x}")
+x = "sir"
+print(f"yes {x}")
