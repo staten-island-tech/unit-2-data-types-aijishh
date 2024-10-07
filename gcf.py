@@ -5,4 +5,5 @@ num2 = int(input('number'))
 for i in range(1, min(num1, num2) + 1):
     if num1 % i == 0 and num2 % i == 0:
         gcf = i
-print (f'{gcf} is the gcf')
+print (f'{gcf} is the gcf') 
+
